@@ -1,0 +1,97 @@
+
+
+  .image {
+  background-image: url('https://photos-4.dropbox.com/t/2/AAABCxguDsyofOLF4CJ40SX7u3IadZbMeBWiPudAtIAW2w/12/452033300/jpeg/32x32/1/_/1/2/rawer.jpg/EOCdxNMDGOIXIAcoBw/pa-00BW6ciM1UoDInHDOt_fUzJ5k9taGI_5nZZampRw?size=1600x1200&size_mode=3');
+  
+    background-position: 0px 65px;
+    background-repeat: no-repeat;
+    background-color: #BEE5EA;
+  background-size: 100% 100%;
+  height: 100vh;
+  image-rendering: auto;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2F2F2C;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: inline-block;
+    color: white; 
+  font-family:'Lora',bold;
+    text-align: center;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover{
+  color:#CBB20F;
+}
+
+.GOAT{
+  
+font-family: 'Russo One', sans-serif;
+  font-size:9vw; color:#502830;
+  text-align:center;
+}
+
+.GOAT span{
+  color:#CBB20F;
+}
+
+.name{
+  text-align:center;
+  font-size:4.5vw; color:#502830;
+  margin-top: -3.0%;
+  font-family: 'Merienda One', cursive;
+}
+
+body{
+  text-align:center;
+  font:17px 'Lora';
+}
+
+
+
+.headers{
+  font-size: 30px;
+  font: 9vh 'Russo One', sans-serif;
+  padding: 40px 0 8px 0;
+}
+
+#aboutme{
+  height: 55vh;
+  background-color:#2F2F2C;
+  color:white;
+  padding-bottom:10px;
+}
+
+#portfolio{
+  background-color:#502830;
+  color: #CBB20F;
+  height:36vh;
+}
+
+
+#contact{
+  background-color:#d5f0f4;
+  height:35vh;
+}
+
+#contact span a{
+  color: #022077;
+  font-weight:bold;
+}
+
+
+
+
+html {
+     -webkit-filter: brightness(100%) grayscale(0%) sepia(0%) !important; 
+}
